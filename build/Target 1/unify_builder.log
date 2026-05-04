@@ -1,0 +1,1257 @@
+[2026-04-21 19:59:55]	compilation failed at : "c:\Users\19761\Desktop\STM32入门教程资料\程序源码\程序源码\STM32Project-无注释版\6-5 PWM驱动直流电机\Library\stm32f10x_dbgmcu.c", exit code: 1
+command: 
+  "d:\Keil_v5\Keil_v51\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IStart -ILibrary -IUser -ISystem -IHardware -I.cmsis/include -I"RTE/_Target 1" -D"USE_STDPERIPH_DRIVER" --cpu Cortex-M3 --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o ".\build\Target 1\.obj\Library\stm32f10x_dbgmcu.o" --no_depend_system_headers --depend ".\build\Target 1\.obj\Library\stm32f10x_dbgmcu.d" .\Library\stm32f10x_dbgmcu.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_can.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Hardware\OLED.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_adc.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_crc.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_bkp.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Hardware\Motor.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_cec.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_dac.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\misc.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_dbgmcu.c: 0 warnings, 1 error
+
+[2026-04-21 20:00:44]	compilation failed at : "c:\Users\19761\Desktop\STM32入门教程资料\程序源码\程序源码\STM32Project-无注释版\6-5 PWM驱动直流电机\Library\stm32f10x_dbgmcu.c", exit code: 1
+command: 
+  "d:\Keil_v5\Keil_v51\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IStart -ILibrary -IUser -ISystem -IHardware -I.cmsis/include -I"RTE/_Target 1" -D"USE_STDPERIPH_DRIVER" --cpu Cortex-M3 --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o ".\build\Target 1\.obj\Library\stm32f10x_dbgmcu.o" --no_depend_system_headers --depend ".\build\Target 1\.obj\Library\stm32f10x_dbgmcu.d" .\Library\stm32f10x_dbgmcu.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Hardware\Motor.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\misc.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Hardware\OLED.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_adc.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_bkp.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_can.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_cec.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_crc.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_dac.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_dbgmcu.c: 0 warnings, 1 error
+
+[2026-04-21 20:02:34]	compilation failed at : "c:\Users\19761\Desktop\STM32入门教程资料\程序源码\程序源码\STM32Project-无注释版\6-5 PWM驱动直流电机\Hardware\Motor.c", exit code: 1
+command: 
+  "d:\Keil_v5\Keil_v51\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IStart -ILibrary -IUser -ISystem -IHardware -I.cmsis/include -I"RTE/_Target 1" -D"USE_STDPERIPH_DRIVER" -D"STM32F10X_MD" --cpu Cortex-M3 --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o ".\build\Target 1\.obj\Hardware\Motor.o" --no_depend_system_headers --depend ".\build\Target 1\.obj\Hardware\Motor.d" .\Hardware\Motor.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\Hardware\Motor.c", line 619: Error:  #6: comment unclosed at end of file
+  /**
+  ^
+.\Hardware\Motor.c: 0 warnings, 1 error
+
+[2026-04-21 21:01:28]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol Delay_Init (referred from main.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 1 error messages.
+
+
+[2026-04-21 21:05:02]	[done]
+	build successfully !
+
+[2026-04-21 21:32:14]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol Delay_Init (referred from main.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 1 error messages.
+
+
+[2026-04-21 21:33:13]	[done]
+	build successfully !
+
+[2026-04-21 21:43:12]	[done]
+	build successfully !
+
+[2026-04-21 21:46:53]	[done]
+	build successfully !
+
+[2026-04-21 21:51:00]	compilation failed at : "c:\Users\19761\Desktop\STM32入门教程资料\程序源码\程序源码\STM32Project-无注释版\6-5 PWM驱动直流电机\User\main.c", exit code: 1
+command: 
+  "d:\Keil_v5\Keil_v51\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -IStart -ILibrary -IUser -ISystem -IHardware -I.cmsis/include -I"RTE/_Target 1" -D"USE_STDPERIPH_DRIVER" -D"STM32F10X_MD" --cpu Cortex-M3 --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o ".\build\Target 1\.obj\User\main.o" --no_depend_system_headers --depend ".\build\Target 1\.obj\User\main.d" .\User\main.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\User\main.c", line 66: Error:  #254: type name is not allowed
+      Car_ForwardTurnLeft(uint8_t speed);                    // 鍓嶈繘宸﹁浆锛堝樊閫熻浆鍚戯級
+                          ^
+".\User\main.c", line 66: Error:  #18: expected a ")"
+      Car_ForwardTurnLeft(uint8_t speed);                    // 鍓嶈繘宸﹁浆锛堝樊閫熻浆鍚戯級
+                                  ^
+.\User\main.c: 0 warnings, 2 errors
+
+[2026-04-21 21:52:20]	[done]
+	build successfully !
+
+[2026-04-21 21:53:39]	[done]
+	build successfully !
+
+[2026-04-21 22:08:40]	[done]
+	build successfully !
+
+[2026-04-21 22:10:12]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol Delay_Init (referred from main.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 1 error messages.
+
+
+[2026-04-21 22:10:34]	[done]
+	build successfully !
+
+[2026-04-21 22:11:01]	[done]
+	build successfully !
+
+[2026-04-21 22:11:57]	[done]
+	build successfully !
+
+[2026-04-21 22:15:11]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol Delay_Init (referred from main.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 1 error messages.
+
+
+[2026-04-21 22:19:37]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6200E: Symbol Delay_ms multiply defined (by main.o and Delay.o).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 1 error messages.
+
+
+[2026-04-21 22:20:44]	[done]
+	build successfully !
+
+[2026-04-21 22:20:47]	[done]
+	build successfully !
+
+[2026-04-21 22:29:53]	[done]
+	build successfully !
+
+[2026-04-21 22:45:56]	[done]
+	build successfully !
+
+[2026-04-21 22:45:58]	[done]
+	build successfully !
+
+[2026-04-21 22:51:54]	[done]
+	build successfully !
+
+[2026-04-21 22:53:41]	[done]
+	build successfully !
+
+[2026-04-21 22:53:55]	[done]
+	build successfully !
+
+[2026-04-21 22:58:03]	[done]
+	build successfully !
+
+[2026-04-21 22:58:18]	[done]
+	build successfully !
+
+[2026-04-22 10:52:59]	[done]
+	build successfully !
+
+[2026-04-22 10:53:17]	[done]
+	build successfully !
+
+[2026-04-22 10:59:45]	[done]
+	build successfully !
+
+[2026-04-22 11:18:47]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol Delay_Init (referred from main.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 1 error messages.
+
+
+[2026-04-22 11:24:09]	[done]
+	build successfully !
+
+[2026-04-22 11:35:16]	[done]
+	build successfully !
+
+[2026-04-22 11:41:47]	compilation failed at : "c:\Users\19761\Desktop\STM32入门教程资料\程序源码\程序源码\STM32Project-无注释版\6-5 PWM驱动直流电机\Hardware\OLED_Status.c", exit code: 1
+command: 
+  "d:\Keil_v5\Keil_v51\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IStart -ILibrary -IUser -ISystem -IHardware -I.cmsis/include -I"RTE/_Target 1" -D"USE_STDPERIPH_DRIVER" -D"STM32F10X_MD" --cpu Cortex-M3 --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o ".\build\Target 1\.obj\Hardware\OLED_Status.o" --no_depend_system_headers --depend ".\build\Target 1\.obj\Hardware\OLED_Status.d" .\Hardware\OLED_Status.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\Hardware\OLED_Status.c", line 112: Error:  #167: argument of type "const char *" is incompatible with parameter of type "char *"
+      OLED_ShowString(LINE_3, COL_VALUE + 9, GetMotorDirString(state->left_wheel.dir));
+                                             ^
+".\Hardware\OLED_Status.c", line 121: Error:  #167: argument of type "const char *" is incompatible with parameter of type "char *"
+      OLED_ShowString(LINE_4, COL_VALUE + 9, GetMotorDirString(state->right_wheel.dir));
+                                             ^
+".\Hardware\OLED_Status.c", line 148: Error:  #167: argument of type "const char *" is incompatible with parameter of type "char *"
+      OLED_ShowString(LINE_6, COL_VALUE, GetDirectionString(state->car_direction));
+                                         ^
+".\Hardware\OLED_Status.c", line 176: Error:  #167: argument of type "const char *" is incompatible with parameter of type "char *"
+      OLED_ShowString(LINE_8, COL_VALUE, info);
+                                         ^
+.\Hardware\OLED_Status.c: 0 warnings, 4 errors
+
+[2026-04-22 12:02:56]	[done]
+	build successfully !
+
+[2026-04-22 12:09:30]	[done]
+	build successfully !
+
+[2026-04-22 12:13:19]	[done]
+	build successfully !
+
+[2026-04-22 12:21:53]	[done]
+	build successfully !
+
+[2026-04-23 22:36:14]	[done]
+	build successfully !
+
+[2026-04-23 22:51:41]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol Car_BackwardTurnLeft (referred from Bluetooth.o).
+Error: L6218E: Undefined symbol Car_BackwardTurnRight (referred from Bluetooth.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 2 error messages.
+
+
+[2026-04-23 22:52:42]	[done]
+	build successfully !
+
+[2026-04-23 22:56:52]	[done]
+	build successfully !
+
+[2026-04-27 10:44:30]	[done]
+	build successfully !
+
+[2026-04-27 10:49:36]	[done]
+	build successfully !
+
+[2026-04-27 11:15:49]	[done]
+	build successfully !
+
+[2026-04-27 11:19:55]	[done]
+	build successfully !
+
+[2026-04-27 11:22:18]	[done]
+	build successfully !
+
+[2026-04-27 11:30:44]	[done]
+	build successfully !
+
+[2026-04-27 11:33:21]	[done]
+	build successfully !
+
+[2026-04-27 11:36:30]	[done]
+	build successfully !
+
+[2026-04-27 11:39:33]	[done]
+	build successfully !
+
+[2026-04-27 12:31:33]	[done]
+	build successfully !
+
+[2026-04-27 12:39:59]	[done]
+	build successfully !
+
+[2026-04-27 12:41:33]	[done]
+	build successfully !
+
+[2026-04-27 16:10:44]	[done]
+	build successfully !
+
+[2026-04-27 16:11:55]	[done]
+	build successfully !
+
+[2026-04-27 16:25:53]	[done]
+	build successfully !
+
+[2026-04-27 16:32:04]	[done]
+	build successfully !
+
+[2026-04-27 16:33:53]	[done]
+	build successfully !
+
+[2026-04-27 16:34:50]	[done]
+	build successfully !
+
+[2026-04-27 16:35:20]	[done]
+	build successfully !
+
+[2026-04-27 16:36:00]	[done]
+	build successfully !
+
+[2026-04-27 16:39:21]	[done]
+	build successfully !
+
+[2026-04-27 16:44:25]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\19761\Desktop\智能小车\Hardware\Bluetooth.c': source file has been changed.
+
+[2026-04-27 16:44:26]	[done]
+	build successfully !
+
+[2026-04-27 16:44:34]	[done]
+	build successfully !
+
+[2026-04-27 16:46:28]	[done]
+	build successfully !
+
+[2026-04-27 16:47:08]	[done]
+	build successfully !
+
+[2026-04-27 16:59:36]	[done]
+	build successfully !
+
+[2026-04-27 17:03:51]	[done]
+	build successfully !
+
+[2026-04-27 17:08:39]	[done]
+	build successfully !
+
+[2026-04-27 17:12:26]	[done]
+	build successfully !
+
+[2026-04-27 17:19:29]	compilation failed at : "c:\Users\19761\Desktop\智能小车\Hardware\Motor.c", exit code: 1
+command: 
+  "d:\Keil_v5\Keil_v51\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IStart -ILibrary -IUser -ISystem -IHardware -I.cmsis/include -I"RTE/_Target 1" -D"USE_STDPERIPH_DRIVER" -D"STM32F10X_MD" --cpu Cortex-M3 --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o ".\build\Target 1\.obj\Hardware\Motor.o" --no_depend_system_headers --depend ".\build\Target 1\.obj\Hardware\Motor.d" .\Hardware\Motor.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\Hardware\Motor.c", line 13: Error:  #147-D: declaration is incompatible with "void GPIO_Init(GPIO_TypeDef *, GPIO_InitTypeDef *)"  (declared at line 351 of "Library\stm32f10x_gpio.h")
+  static void GPIO_Init(void);
+              ^
+".\Hardware\Motor.c", line 297: Error:  #140: too many arguments in function call
+      GPIO_Init(MOTOR_LF_IN1_PORT, &gpio);
+                ^
+".\Hardware\Motor.c", line 299: Error:  #140: too many arguments in function call
+      GPIO_Init(MOTOR_LB_IN1_PORT, &gpio);
+                ^
+".\Hardware\Motor.c", line 301: Error:  #140: too many arguments in function call
+      GPIO_Init(MOTOR_RF_IN1_PORT, &gpio);
+                ^
+".\Hardware\Motor.c", line 303: Error:  #140: too many arguments in function call
+      GPIO_Init(MOTOR_RB_IN1_PORT, &gpio);
+                ^
+".\Hardware\Motor.c", line 320: Error:  #140: too many arguments in function call
+      GPIO_Init(MOTOR_LF_PWM_PORT, &gpio);
+                ^
+".\Hardware\Motor.c", line 323: Error:  #140: too many arguments in function call
+      GPIO_Init(MOTOR_RF_PWM_PORT, &gpio);
+                ^
+".\Hardware\Motor.c", line 325: Error:  #140: too many arguments in function call
+      GPIO_Init(MOTOR_RB_PWM_PORT, &gpio);
+                ^
+.\Hardware\Motor.c: 0 warnings, 8 errors
+
+[2026-04-27 17:22:06]	[done]
+	build successfully !
+
+[2026-04-27 17:24:53]	[done]
+	build successfully !
+
+[2026-04-27 17:36:04]	[done]
+	build successfully !
+
+[2026-04-27 18:01:29]	compilation failed at : "c:\Users\19761\Desktop\智能小车\Hardware\Tracking.c", exit code: 1
+command: 
+  "d:\Keil_v5\Keil_v51\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IStart -ILibrary -IUser -ISystem -IHardware -I.cmsis/include -I"RTE/_Target 1" -D"USE_STDPERIPH_DRIVER" -D"STM32F10X_MD" --cpu Cortex-M3 --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o ".\build\Target 1\.obj\Hardware\Tracking.o" --no_depend_system_headers --depend ".\build\Target 1\.obj\Hardware\Tracking.d" .\Hardware\Tracking.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\Hardware\Tracking.c", line 37: Error:  #20: identifier "TRACK_SENSOR_4_PORT" is undefined
+      if (!GPIO_ReadInputDataBit(TRACK_SENSOR_4_PORT, TRACK_SENSOR_4_PIN))
+                                 ^
+.\Hardware\Tracking.c: 0 warnings, 1 error
+
+[2026-04-27 18:03:33]	[done]
+	build successfully !
+
+[2026-04-27 18:14:12]	[done]
+	build successfully !
+
+[2026-04-27 18:16:33]	[done]
+	build successfully !
+
+[2026-04-27 18:21:42]	[done]
+	build successfully !
+
+[2026-04-27 18:24:47]	[done]
+	build successfully !
+
+[2026-04-27 18:28:07]	[done]
+	build successfully !
+
+[2026-04-27 18:32:25]	[done]
+	build successfully !
+
+[2026-04-27 18:36:02]	[done]
+	build successfully !
+
+[2026-04-27 18:48:19]	[done]
+	build successfully !
+
+[2026-04-27 18:54:12]	[done]
+	build successfully !
+
+[2026-04-27 19:02:15]	[done]
+	build successfully !
+
+[2026-04-27 19:06:09]	[done]
+	build successfully !
+
+[2026-04-27 19:06:44]	[done]
+	build successfully !
+
+[2026-04-27 19:08:40]	[done]
+	build successfully !
+
+[2026-04-27 19:11:44]	[done]
+	build successfully !
+
+[2026-04-27 19:19:42]	[done]
+	build successfully !
+
+[2026-04-27 19:20:01]	[done]
+	build successfully !
+
+[2026-04-27 19:22:29]	[done]
+	build successfully !
+
+[2026-04-27 19:30:22]	[done]
+	build successfully !
+
+[2026-04-27 19:37:06]	[done]
+	build successfully !
+
+[2026-04-27 19:38:39]	[done]
+	build successfully !
+
+[2026-04-27 19:41:02]	[done]
+	build successfully !
+
+[2026-04-27 19:45:45]	[done]
+	build successfully !
+
+[2026-04-27 19:50:01]	[done]
+	build successfully !
+
+[2026-04-27 20:00:54]	[done]
+	build successfully !
+
+[2026-04-27 20:01:04]	[done]
+	build successfully !
+
+[2026-04-27 20:44:53]	[done]
+	build successfully !
+
+[2026-04-27 22:11:44]	[done]
+	build successfully !
+
+[2026-04-27 22:23:50]	[done]
+	build successfully !
+
+[2026-04-27 22:27:56]	[done]
+	build successfully !
+
+[2026-04-27 22:34:16]	[done]
+	build successfully !
+
+[2026-05-02 20:05:40]	compilation failed at : "c:\Users\19761\Desktop\智能小车\Library\stm32f10x_can.c", exit code: 1
+command: 
+  "d:\Keil_v5\Keil_v51\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IStart -ILibrary -IUser -ISystem -IHardware -I.cmsis/include -I"RTE/_Target 1" -D"USE_STDPERIPH_DRIVER" --cpu Cortex-M3 --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o ".\build\Target 1\.obj\Library\stm32f10x_can.o" --no_depend_system_headers --depend ".\build\Target 1\.obj\Library\stm32f10x_can.d" .\Library\stm32f10x_can.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Hardware\Obstacle.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Hardware\Motor.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Hardware\Servo.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Hardware\Bluetooth.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Hardware\Tracking.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Hardware\OLED.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_bkp.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\misc.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_adc.c: 0 warnings, 1 error
+"Start\stm32f10x.h", line 96: Error:  #35: #error directive: "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+   #error "Please select first the target STM32F10x device used in your application (in stm32f10x.h file)"
+    ^
+.\Library\stm32f10x_can.c: 0 warnings, 1 error
+
+[2026-05-02 20:06:51]	[done]
+	build successfully !
+
+[2026-05-03 18:27:23]	[done]
+	build successfully !
+
+[2026-05-03 19:02:01]	[done]
+	build successfully !
+
+[2026-05-03 19:19:41]	compilation failed at : "c:\Users\19761\Desktop\智能小车\Hardware\Tracking.c", exit code: 1
+command: 
+  "d:\Keil_v5\Keil_v51\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IStart -ILibrary -IUser -ISystem -IHardware -I.cmsis/include -I"RTE/_Target 1" -D"USE_STDPERIPH_DRIVER" -D"STM32F10X_MD" --cpu Cortex-M3 --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o ".\build\Target 1\.obj\Hardware\Tracking.o" --no_depend_system_headers --depend ".\build\Target 1\.obj\Hardware\Tracking.d" .\Hardware\Tracking.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\Hardware\Bluetooth.c", line 1: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+"Start\stm32f10x.h", line 472: Warning:  #12-D: parsing restarts here after previous syntax error
+  } IRQn_Type;
+             ^
+"Start\core_cm3.h", line 1502: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_EnableIRQ(IRQn_Type IRQn)
+                                      ^
+"Start\core_cm3.h", line 1515: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_DisableIRQ(IRQn_Type IRQn)
+                                       ^
+"Start\core_cm3.h", line 1529: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetPendingIRQ(IRQn_Type IRQn)
+                                              ^
+"Start\core_cm3.h", line 1542: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_SetPendingIRQ(IRQn_Type IRQn)
+                                          ^
+"Start\core_cm3.h", line 1555: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_ClearPendingIRQ(IRQn_Type IRQn)
+                                            ^
+"Start\core_cm3.h", line 1569: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetActive(IRQn_Type IRQn)
+                                          ^
+"Start\core_cm3.h", line 1586: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_SetPriority(IRQn_Type IRQn, uint32_t priority)
+                                        ^
+"Start\core_cm3.h", line 1609: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetPriority(IRQn_Type IRQn)
+                                            ^
+"Start\core_cm3.h", line 1699: Error:  #20: identifier "SysTick_IRQn" is undefined
+    NVIC_SetPriority (SysTick_IRQn, (1<<__NVIC_PRIO_BITS) - 1);  /* set Priority for Cortex-M0 System Interrupts */
+                      ^
+".\Hardware\Bluetooth.h", line 21: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Bluetooth.h", line 67: Warning:  #12-D: parsing restarts here after previous syntax error
+  } BT_Command;
+              ^
+".\Hardware\Bluetooth.h", line 75: Error:  #20: identifier "BT_Command" is undefined
+  extern BT_Command g_bt_cmd;
+         ^
+".\Hardware\Bluetooth.h", line 84: Error:  #20: identifier "BT_Command" is undefined
+  uint8_t Bluetooth_GetCommand(BT_Command *cmd);
+                               ^
+".\Hardware\Bluetooth.h", line 89: Error:  #20: identifier "BT_Command" is undefined
+  void Bluetooth_ExecuteCommand(BT_Command *cmd);
+                                ^
+".\Hardware\Bluetooth.h", line 91: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Bluetooth.h", line 93: Warning:  #47-D: incompatible redefinition of macro "BT_SPEED_HEADER"  (declared at line 44)
+  #define BT_SPEED_HEADER         0xAA
+          ^
+".\Hardware\Bluetooth.h", line 94: Warning:  #47-D: incompatible redefinition of macro "BT_SPEED_TAIL"  (declared at line 45)
+  #define BT_SPEED_TAIL           0x55
+          ^
+".\Hardware\Bluetooth.h", line 112: Warning:  #47-D: incompatible redefinition of macro "BT_DISCONNECT_TIMEOUT"  (declared at line 50)
+  #define BT_DISCONNECT_TIMEOUT   2000    /* 2绉掓棤鏁版嵁鍒や负鏂紑 */
+          ^
+".\Hardware\Bluetooth.h", line 121: Warning:  #12-D: parsing restarts here after previous syntax error
+  } BT_Command;
+              ^
+".\Hardware\Bluetooth.h", line 127: Error:  #256: invalid redeclaration of type name "BT_State"  (declared at line 73)
+  } BT_State;
+    ^
+".\Hardware\Bluetooth.h", line 141: Error:  #20: identifier "BT_Command" is undefined
+  uint8_t  Bluetooth_GetCommand(BT_Command *cmd);
+                                ^
+".\Hardware\Bluetooth.h", line 143: Error:  #20: identifier "BT_Command" is undefined
+  void     Bluetooth_ExecuteCommand(BT_Command *cmd);
+                                    ^
+".\Hardware\Bluetooth.h", line 149: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\Hardware\Motor.h", line 31: Warning:  #12-D: parsing restarts here after previous syntax error
+  } Motor_State;
+               ^
+".\Hardware\Motor.h", line 34: Error:  #20: identifier "Motor_State" is undefined
+      Motor_State motor_lf, motor_lb, motor_rf, motor_rb;
+      ^
+".\Hardware\Motor.h", line 40: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Motor.h", line 50: Warning:  #12-D: parsing restarts here after previous syntax error
+  } Motor_State;
+               ^
+".\Hardware\Motor.h", line 54: Error:  #20: identifier "Motor_State" is undefined
+      Motor_State motor_lf, motor_lb, motor_rf, motor_rb;
+      ^
+".\Hardware\Motor.h", line 57: Error:  #256: invalid redeclaration of type name "Car_State"  (declared at line 37)
+  } Car_State;
+    ^
+".\Hardware\Motor.h", line 63: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\Hardware\Motor.h", line 68: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.h", line 73: Warning:  #12-D: parsing restarts here after previous syntax error
+  void Motor_SetWheelSpeed(Wheel_Group wheel, uint8_t speed);
+                                                            ^
+".\Hardware\Motor.h", line 77: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.h", line 90: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Motor.h", line 105: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\Hardware\Bluetooth.c", line 21: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Bluetooth.c", line 23: Error:  #147: declaration is incompatible with "BT_State g_bt_state"  (declared at line 76 of ".\Hardware\Bluetooth.h")
+  BT_State g_bt_state = {0};
+           ^
+.\Hardware\Bluetooth.c: 9 warnings, 30 errors
+".\Hardware\Obstacle.c", line 1: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+"Start\stm32f10x.h", line 472: Warning:  #12-D: parsing restarts here after previous syntax error
+  } IRQn_Type;
+             ^
+"Start\core_cm3.h", line 1502: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_EnableIRQ(IRQn_Type IRQn)
+                                      ^
+"Start\core_cm3.h", line 1515: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_DisableIRQ(IRQn_Type IRQn)
+                                       ^
+"Start\core_cm3.h", line 1529: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetPendingIRQ(IRQn_Type IRQn)
+                                              ^
+"Start\core_cm3.h", line 1542: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_SetPendingIRQ(IRQn_Type IRQn)
+                                          ^
+"Start\core_cm3.h", line 1555: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_ClearPendingIRQ(IRQn_Type IRQn)
+                                            ^
+"Start\core_cm3.h", line 1569: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetActive(IRQn_Type IRQn)
+                                          ^
+"Start\core_cm3.h", line 1586: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_SetPriority(IRQn_Type IRQn, uint32_t priority)
+                                        ^
+"Start\core_cm3.h", line 1609: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetPriority(IRQn_Type IRQn)
+                                            ^
+"Start\core_cm3.h", line 1699: Error:  #20: identifier "SysTick_IRQn" is undefined
+    NVIC_SetPriority (SysTick_IRQn, (1<<__NVIC_PRIO_BITS) - 1);  /* set Priority for Cortex-M0 System Interrupts */
+                      ^
+".\Hardware\Servo.h", line 1: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Servo.h", line 56: Warning:  #12-D: parsing restarts here after previous syntax error
+  void Servo_Init(void);
+                       ^
+".\Hardware\Servo.h", line 61: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.h", line 31: Warning:  #12-D: parsing restarts here after previous syntax error
+  } Motor_State;
+               ^
+".\Hardware\Motor.h", line 34: Error:  #20: identifier "Motor_State" is undefined
+      Motor_State motor_lf, motor_lb, motor_rf, motor_rb;
+      ^
+".\Hardware\Motor.h", line 40: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Motor.h", line 50: Warning:  #12-D: parsing restarts here after previous syntax error
+  } Motor_State;
+               ^
+".\Hardware\Motor.h", line 54: Error:  #20: identifier "Motor_State" is undefined
+      Motor_State motor_lf, motor_lb, motor_rf, motor_rb;
+      ^
+".\Hardware\Motor.h", line 57: Error:  #256: invalid redeclaration of type name "Car_State"  (declared at line 37)
+  } Car_State;
+    ^
+".\Hardware\Motor.h", line 63: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\Hardware\Motor.h", line 68: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.h", line 73: Warning:  #12-D: parsing restarts here after previous syntax error
+  void Motor_SetWheelSpeed(Wheel_Group wheel, uint8_t speed);
+                                                            ^
+".\Hardware\Motor.h", line 77: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.h", line 90: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Motor.h", line 105: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\Hardware\Obstacle.c", line 31: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Obstacle.c", line 35: Warning:  #12-D: parsing restarts here after previous syntax error
+  Ultrasonic_Data g_ultrasonic = {0};
+                                    ^
+".\Hardware\Obstacle.c", line 39: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Obstacle.c", line 48: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Obstacle.c", line 55: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\Hardware\Obstacle.c", line 78: Warning:  #12-D: parsing restarts here after previous syntax error
+      gpio.GPIO_Pin = ULTRASONIC_ECHO_PIN;
+                                         ^
+".\Hardware\Obstacle.c", line 79: Error:  #77-D: this declaration has no storage class or type specifier
+      gpio.GPIO_Mode = GPIO_Mode_IN_FLOATING;
+      ^
+".\Hardware\Obstacle.c", line 79: Error:  #65: expected a ";"
+      gpio.GPIO_Mode = GPIO_Mode_IN_FLOATING;
+          ^
+".\Hardware\Obstacle.c", line 80: Error:  #79: expected a type specifier
+      GPIO_Init(ULTRASONIC_ECHO_PORT, &gpio);
+                ^
+".\Hardware\Obstacle.c", line 80: Error:  #79: expected a type specifier
+      GPIO_Init(ULTRASONIC_ECHO_PORT, &gpio);
+                                      ^
+".\Hardware\Obstacle.c", line 80: Error:  #260-D: explicit type is missing ("int" assumed)
+      GPIO_Init(ULTRASONIC_ECHO_PORT, &gpio);
+      ^
+.\Hardware\Obstacle.c: 7 warnings, 30 errors
+".\Hardware\Servo.c", line 1: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+"Start\stm32f10x.h", line 472: Warning:  #12-D: parsing restarts here after previous syntax error
+  } IRQn_Type;
+             ^
+"Start\core_cm3.h", line 1502: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_EnableIRQ(IRQn_Type IRQn)
+                                      ^
+"Start\core_cm3.h", line 1515: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_DisableIRQ(IRQn_Type IRQn)
+                                       ^
+"Start\core_cm3.h", line 1529: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetPendingIRQ(IRQn_Type IRQn)
+                                              ^
+"Start\core_cm3.h", line 1542: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_SetPendingIRQ(IRQn_Type IRQn)
+                                          ^
+"Start\core_cm3.h", line 1555: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_ClearPendingIRQ(IRQn_Type IRQn)
+                                            ^
+"Start\core_cm3.h", line 1569: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetActive(IRQn_Type IRQn)
+                                          ^
+"Start\core_cm3.h", line 1586: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_SetPriority(IRQn_Type IRQn, uint32_t priority)
+                                        ^
+"Start\core_cm3.h", line 1609: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetPriority(IRQn_Type IRQn)
+                                            ^
+"Start\core_cm3.h", line 1699: Error:  #20: identifier "SysTick_IRQn" is undefined
+    NVIC_SetPriority (SysTick_IRQn, (1<<__NVIC_PRIO_BITS) - 1);  /* set Priority for Cortex-M0 System Interrupts */
+                      ^
+".\Hardware\Servo.h", line 22: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Servo.h", line 56: Warning:  #12-D: parsing restarts here after previous syntax error
+  void Servo_Init(void);
+                       ^
+".\Hardware\Servo.h", line 61: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\../System/Delay.h", line 4: Warning:  #12-D: parsing restarts here after previous syntax error
+  void Delay_us(uint32_t us);
+                            ^
+".\Hardware\Servo.c", line 10: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Servo.c", line 52: Warning:  #12-D: parsing restarts here after previous syntax error
+      TIM_DeInit(SERVO_PWM_TIM);
+                               ^
+".\Hardware\Servo.c", line 53: Error:  #77-D: this declaration has no storage class or type specifier
+      tim.TIM_Prescaler = 72 - 1;             // 72MHz/72=1MHz
+      ^
+".\Hardware\Servo.c", line 53: Error:  #65: expected a ";"
+      tim.TIM_Prescaler = 72 - 1;             // 72MHz/72=1MHz
+         ^
+".\Hardware\Servo.c", line 54: Error:  #77-D: this declaration has no storage class or type specifier
+      tim.TIM_Period = 20000 - 1;             // 1MHz/20000=50Hz
+      ^
+".\Hardware\Servo.c", line 54: Error:  #65: expected a ";"
+      tim.TIM_Period = 20000 - 1;             // 1MHz/20000=50Hz
+         ^
+".\Hardware\Servo.c", line 55: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Servo.c", line 58: Error:  #77-D: this declaration has no storage class or type specifier
+      tim.TIM_Prescaler = 72 - 1;
+      ^
+".\Hardware\Servo.c", line 58: Error:  #65: expected a ";"
+      tim.TIM_Prescaler = 72 - 1;
+         ^
+".\Hardware\Servo.c", line 59: Error:  #77-D: this declaration has no storage class or type specifier
+      tim.TIM_Period = 20000 - 1;
+      ^
+".\Hardware\Servo.c", line 59: Error:  #65: expected a ";"
+      tim.TIM_Period = 20000 - 1;
+         ^
+".\Hardware\Servo.c", line 60: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\Hardware\Servo.c", line 62: Error:  #77-D: this declaration has no storage class or type specifier
+      tim.TIM_ClockDivision = TIM_CKD_DIV1;
+      ^
+".\Hardware\Servo.c", line 62: Error:  #65: expected a ";"
+      tim.TIM_ClockDivision = TIM_CKD_DIV1;
+         ^
+".\Hardware\Servo.c", line 63: Error:  #79: expected a type specifier
+      TIM_TimeBaseInit(SERVO_PWM_TIM, &tim);
+                       ^
+".\Hardware\Servo.c", line 63: Error:  #79: expected a type specifier
+      TIM_TimeBaseInit(SERVO_PWM_TIM, &tim);
+                                      ^
+".\Hardware\Servo.c", line 63: Error:  #260-D: explicit type is missing ("int" assumed)
+      TIM_TimeBaseInit(SERVO_PWM_TIM, &tim);
+      ^
+".\Hardware\Servo.c", line 63: Error:  #147: declaration is incompatible with "void TIM_TimeBaseInit(TIM_TypeDef *, TIM_TimeBaseInitTypeDef *)"  (declared at line 1055 of "Library\stm32f10x_tim.h")
+      TIM_TimeBaseInit(SERVO_PWM_TIM, &tim);
+      ^
+".\Hardware\Servo.c", line 65: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+.\Hardware\Servo.c: 4 warnings, 30 errors
+".\Hardware\Motor.c", line 1: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+"Start\stm32f10x.h", line 472: Warning:  #12-D: parsing restarts here after previous syntax error
+  } IRQn_Type;
+             ^
+"Start\core_cm3.h", line 1502: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_EnableIRQ(IRQn_Type IRQn)
+                                      ^
+"Start\core_cm3.h", line 1515: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_DisableIRQ(IRQn_Type IRQn)
+                                       ^
+"Start\core_cm3.h", line 1529: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetPendingIRQ(IRQn_Type IRQn)
+                                              ^
+"Start\core_cm3.h", line 1542: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_SetPendingIRQ(IRQn_Type IRQn)
+                                          ^
+"Start\core_cm3.h", line 1555: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_ClearPendingIRQ(IRQn_Type IRQn)
+                                            ^
+"Start\core_cm3.h", line 1569: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetActive(IRQn_Type IRQn)
+                                          ^
+"Start\core_cm3.h", line 1586: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_SetPriority(IRQn_Type IRQn, uint32_t priority)
+                                        ^
+"Start\core_cm3.h", line 1609: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetPriority(IRQn_Type IRQn)
+                                            ^
+"Start\core_cm3.h", line 1699: Error:  #20: identifier "SysTick_IRQn" is undefined
+    NVIC_SetPriority (SysTick_IRQn, (1<<__NVIC_PRIO_BITS) - 1);  /* set Priority for Cortex-M0 System Interrupts */
+                      ^
+".\Hardware\Motor.h", line 16: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.h", line 31: Warning:  #12-D: parsing restarts here after previous syntax error
+  } Motor_State;
+               ^
+".\Hardware\Motor.h", line 34: Error:  #20: identifier "Motor_State" is undefined
+      Motor_State motor_lf, motor_lb, motor_rf, motor_rb;
+      ^
+".\Hardware\Motor.h", line 40: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Motor.h", line 50: Warning:  #12-D: parsing restarts here after previous syntax error
+  } Motor_State;
+               ^
+".\Hardware\Motor.h", line 54: Error:  #20: identifier "Motor_State" is undefined
+      Motor_State motor_lf, motor_lb, motor_rf, motor_rb;
+      ^
+".\Hardware\Motor.h", line 57: Error:  #256: invalid redeclaration of type name "Car_State"  (declared at line 37)
+  } Car_State;
+    ^
+".\Hardware\Motor.h", line 63: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\Hardware\Motor.h", line 68: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.h", line 73: Warning:  #12-D: parsing restarts here after previous syntax error
+  void Motor_SetWheelSpeed(Wheel_Group wheel, uint8_t speed);
+                                                            ^
+".\Hardware\Motor.h", line 77: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.h", line 90: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Motor.h", line 105: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\Hardware\Motor.c", line 5: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Motor.c", line 31: Warning:  #12-D: parsing restarts here after previous syntax error
+  };
+   ^
+".\Hardware\Motor.c", line 33: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.c", line 37: Warning:  #12-D: parsing restarts here after previous syntax error
+  static void Motor_GPIO_Init(void);
+                                   ^
+".\Hardware\Motor.c", line 42: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.c", line 475: Warning:  #12-D: parsing restarts here after previous syntax error
+      GPIO_Init(MOTOR_LF_PWM_PORT, &gpio);
+                                         ^
+".\Hardware\Motor.c", line 476: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\Hardware\Motor.c", line 478: Error:  #79: expected a type specifier
+      GPIO_Init(MOTOR_RF_PWM_PORT, &gpio);
+                ^
+".\Hardware\Motor.c", line 478: Error:  #79: expected a type specifier
+      GPIO_Init(MOTOR_RF_PWM_PORT, &gpio);
+                                   ^
+".\Hardware\Motor.c", line 478: Error:  #260-D: explicit type is missing ("int" assumed)
+      GPIO_Init(MOTOR_RF_PWM_PORT, &gpio);
+      ^
+".\Hardware\Motor.c", line 478: Error:  #147: declaration is incompatible with "void GPIO_Init(GPIO_TypeDef *, GPIO_InitTypeDef *)"  (declared at line 351 of "Library\stm32f10x_gpio.h")
+      GPIO_Init(MOTOR_RF_PWM_PORT, &gpio);
+      ^
+".\Hardware\Motor.c", line 479: Error:  #77-D: this declaration has no storage class or type specifier
+      gpio.GPIO_Pin = MOTOR_RB_PWM_PIN;
+      ^
+".\Hardware\Motor.c", line 479: Error:  #65: expected a ";"
+      gpio.GPIO_Pin = MOTOR_RB_PWM_PIN;
+          ^
+.\Hardware\Motor.c: 7 warnings, 30 errors
+".\Hardware\Tracking.c", line 1: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+"Start\stm32f10x.h", line 472: Warning:  #12-D: parsing restarts here after previous syntax error
+  } IRQn_Type;
+             ^
+"Start\core_cm3.h", line 1502: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_EnableIRQ(IRQn_Type IRQn)
+                                      ^
+"Start\core_cm3.h", line 1515: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_DisableIRQ(IRQn_Type IRQn)
+                                       ^
+"Start\core_cm3.h", line 1529: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetPendingIRQ(IRQn_Type IRQn)
+                                              ^
+"Start\core_cm3.h", line 1542: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_SetPendingIRQ(IRQn_Type IRQn)
+                                          ^
+"Start\core_cm3.h", line 1555: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_ClearPendingIRQ(IRQn_Type IRQn)
+                                            ^
+"Start\core_cm3.h", line 1569: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetActive(IRQn_Type IRQn)
+                                          ^
+"Start\core_cm3.h", line 1586: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_SetPriority(IRQn_Type IRQn, uint32_t priority)
+                                        ^
+"Start\core_cm3.h", line 1609: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetPriority(IRQn_Type IRQn)
+                                            ^
+"Start\core_cm3.h", line 1699: Error:  #20: identifier "SysTick_IRQn" is undefined
+    NVIC_SetPriority (SysTick_IRQn, (1<<__NVIC_PRIO_BITS) - 1);  /* set Priority for Cortex-M0 System Interrupts */
+                      ^
+".\Hardware\Tracking.h", line 22: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Tracking.h", line 62: Warning:  #47-D: incompatible redefinition of macro "TRACK_SPEED_TURN"  (declared at line 35)
+  #define TRACK_SPEED_TURN        80      /* 澶у箙杞悜閫熷害 */
+          ^
+".\Hardware\Tracking.h", line 66: Warning:  #12-D: parsing restarts here after previous syntax error
+  void Tracking_Init(void);
+                          ^
+".\Hardware\Motor.h", line 1: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.h", line 31: Warning:  #12-D: parsing restarts here after previous syntax error
+  } Motor_State;
+               ^
+".\Hardware\Motor.h", line 34: Error:  #20: identifier "Motor_State" is undefined
+      Motor_State motor_lf, motor_lb, motor_rf, motor_rb;
+      ^
+".\Hardware\Motor.h", line 40: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Motor.h", line 50: Warning:  #12-D: parsing restarts here after previous syntax error
+  } Motor_State;
+               ^
+".\Hardware\Motor.h", line 54: Error:  #20: identifier "Motor_State" is undefined
+      Motor_State motor_lf, motor_lb, motor_rf, motor_rb;
+      ^
+".\Hardware\Motor.h", line 57: Error:  #256: invalid redeclaration of type name "Car_State"  (declared at line 37)
+  } Car_State;
+    ^
+".\Hardware\Motor.h", line 63: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\Hardware\Motor.h", line 68: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.h", line 73: Warning:  #12-D: parsing restarts here after previous syntax error
+  void Motor_SetWheelSpeed(Wheel_Group wheel, uint8_t speed);
+                                                            ^
+".\Hardware\Motor.h", line 77: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Motor.h", line 90: Error:  #169: expected a declaration
+  =======
+  ^
+".\Hardware\Motor.h", line 105: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\Hardware\Tracking.c", line 25: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\Hardware\Tracking.c", line 230: Warning:  #12-D: parsing restarts here after previous syntax error
+      Car_Forward(TRACK_SPEED_DEFAULT);
+                                      ^
+".\Hardware\Tracking.c", line 231: Error:  #169: expected a declaration
+  }
+  ^
+.\Hardware\Tracking.c: 7 warnings, 23 errors
+
+[2026-05-03 19:21:44]	compilation failed at : "c:\Users\19761\Desktop\智能小车\User\main.c", exit code: 1
+command: 
+  "d:\Keil_v5\Keil_v51\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I. -IStart -ILibrary -IUser -ISystem -IHardware -I.cmsis/include -I"RTE/_Target 1" -D"USE_STDPERIPH_DRIVER" -D"STM32F10X_MD" --cpu Cortex-M3 --li --c99 -O0 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o ".\build\Target 1\.obj\User\main.o" --no_depend_system_headers --depend ".\build\Target 1\.obj\User\main.d" .\User\main.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\User\main.c", line 1: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+"Start\stm32f10x.h", line 472: Warning:  #12-D: parsing restarts here after previous syntax error
+  } IRQn_Type;
+             ^
+"Start\core_cm3.h", line 1502: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_EnableIRQ(IRQn_Type IRQn)
+                                      ^
+"Start\core_cm3.h", line 1515: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_DisableIRQ(IRQn_Type IRQn)
+                                       ^
+"Start\core_cm3.h", line 1529: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetPendingIRQ(IRQn_Type IRQn)
+                                              ^
+"Start\core_cm3.h", line 1542: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_SetPendingIRQ(IRQn_Type IRQn)
+                                          ^
+"Start\core_cm3.h", line 1555: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_ClearPendingIRQ(IRQn_Type IRQn)
+                                            ^
+"Start\core_cm3.h", line 1569: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetActive(IRQn_Type IRQn)
+                                          ^
+"Start\core_cm3.h", line 1586: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE void NVIC_SetPriority(IRQn_Type IRQn, uint32_t priority)
+                                        ^
+"Start\core_cm3.h", line 1609: Error:  #20: identifier "IRQn_Type" is undefined
+  static __INLINE uint32_t NVIC_GetPriority(IRQn_Type IRQn)
+                                            ^
+"Start\core_cm3.h", line 1699: Error:  #20: identifier "SysTick_IRQn" is undefined
+    NVIC_SetPriority (SysTick_IRQn, (1<<__NVIC_PRIO_BITS) - 1);  /* set Priority for Cortex-M0 System Interrupts */
+                      ^
+".\User\main.c", line 34: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\User\main.c", line 38: Warning:  #12-D: parsing restarts here after previous syntax error
+  static uint32_t g_last_cmd_time = 0;
+                                     ^
+".\User\main.c", line 44: Error:  #169: expected a declaration
+  =======
+  ^
+".\User\main.c", line 52: Warning:  #12-D: parsing restarts here after previous syntax error
+  static uint32_t g_last_cmd_time = 0;    /* 涓婃鏀跺埌鍛戒护鐨勬椂闂? */
+                                     ^
+".\User\main.c", line 53: Error:  #148: variable "g_dir"  has already been initialized
+  static uint8_t g_dir = 0, g_spd = 0;    /* 褰撳墠鏂瑰悜鍜岄�熷害 */
+                 ^
+".\User\main.c", line 53: Error:  #148: variable "g_spd"  has already been initialized
+  static uint8_t g_dir = 0, g_spd = 0;    /* 褰撳墠鏂瑰悜鍜岄�熷害 */
+                            ^
+".\User\main.c", line 54: Error:  #148: variable "g_loop"  has already been initialized
+  static uint32_t g_loop = 0;             /* 涓诲惊鐜鏁板櫒 */
+                  ^
+".\User\main.c", line 55: Error:  #148: variable "g_disp_mode"  has already been initialized
+  static uint8_t g_disp_mode = CAR_MODE_MANUAL;   /* 鏄剧ず鐢ㄦā寮? */
+                 ^
+".\User\main.c", line 56: Error:  #148: variable "g_track_sensors"  has already been initialized
+  static uint8_t g_track_sensors = 0;     /* 寰抗浼犳劅鍣ㄥ�? */
+                 ^
+".\User\main.c", line 59: Error:  #169: expected a declaration
+  >>>>>>> 723cf8e (鏅鸿兘灏忚溅1)
+  ^
+".\User\main.c", line 64: Error:  #169: expected a declaration
+  <<<<<<< HEAD
+  ^
+".\User\main.c", line 90: Warning:  #12-D: parsing restarts here after previous syntax error
+      Delay_ms(100);
+                   ^
+".\User\main.c", line 91: Error:  #169: expected a declaration
+      for (int i = 0; i < 3; i++) {
+      ^
+".\User\main.c", line 102: Warning:  #12-D: parsing restarts here after previous syntax error
+      OLED_Init(); Delay_ms(100);
+                 ^
+".\User\main.c", line 102: Error:  #79: expected a type specifier
+      OLED_Init(); Delay_ms(100);
+                            ^
+".\User\main.c", line 102: Error:  #260-D: explicit type is missing ("int" assumed)
+      OLED_Init(); Delay_ms(100);
+                   ^
+".\User\main.c", line 102: Error:  #147: declaration is incompatible with "void Delay_ms(uint32_t)"  (declared at line 5 of "System\Delay.h")
+      OLED_Init(); Delay_ms(100);
+                   ^
+".\User\main.c", line 103: Error:  #260-D: explicit type is missing ("int" assumed)
+      OLED_Clear();
+      ^
+".\User\main.c", line 103: Error:  #147: declaration is incompatible with "void OLED_Clear(void)"  (declared at line 9 of ".\User\../Hardware/OLED.h")
+      OLED_Clear();
+      ^
+".\User\main.c", line 104: Error:  #79: expected a type specifier
+      OLED_ShowString(1, 1, "SmartCar");
+                      ^
+".\User\main.c", line 104: Error:  #79: expected a type specifier
+      OLED_ShowString(1, 1, "SmartCar");
+                         ^
+".\User\main.c", line 104: Error:  #79: expected a type specifier
+      OLED_ShowString(1, 1, "SmartCar");
+                            ^
+".\User\main.c", line 104: Error:  #260-D: explicit type is missing ("int" assumed)
+      OLED_ShowString(1, 1, "SmartCar");
+      ^
+".\User\main.c", line 104: Error:  #147: declaration is incompatible with "void OLED_ShowString(uint8_t, uint8_t, char *)"  (declared at line 13 of ".\User\../Hardware/OLED.h")
+      OLED_ShowString(1, 1, "SmartCar");
+      ^
+.\User\main.c: 5 warnings, 30 errors
+
+[2026-05-03 19:22:20]	[done]
+	build successfully !
+
+[2026-05-03 19:29:51]	[done]
+	build successfully !
+
+[2026-05-03 19:32:32]	[done]
+	build successfully !
+
+[2026-05-03 20:39:35]	[done]
+	build successfully !
+
+[2026-05-04 12:41:12]	[done]
+	build successfully !
+

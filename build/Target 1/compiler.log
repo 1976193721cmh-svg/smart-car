@@ -1,0 +1,14 @@
+>>> cc
+
+".\Hardware\Obstacle.c", line 30: Warning:  #550-D: variable "g_state_start_time"  was set but never used
+  static uint32_t g_state_start_time = 0;                 // 状态开始时�?
+                  ^
+.\Hardware\Obstacle.c: 1 warning, 0 errors
+".\Hardware\Bluetooth.c", line 28: Warning:  #550-D: variable "rx_buffer"  was set but never used
+  static uint8_t rx_buffer[BT_RX_BUFFER_SIZE];            // 接收环形缓冲�?
+                 ^
+.\Hardware\Bluetooth.c: 1 warning, 0 errors
+
+>>> ld
+
+Program Size: Code=10664 RO-data=2168 RW-data=108 ZI-data=1740  
